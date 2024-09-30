@@ -8,7 +8,7 @@
 
 **Occupation:** King
 
-**Known History**: A wandering [[minotaur]] claiming to be a former king of a land east of the [[Oraniad Mountains]], he states that he was cursed by [[Mogis]] and cast out by his advisors after he declared his sickly child his heir.
+**Known History**: A wandering [[Minotaur]] claiming to be a former king of a land east of the [[Oraniad Mountains]], he states that he was cursed by [[Mogis]] and cast out by his advisors after he declared his sickly child his heir.
 
 **Party Interactions:**
 1. The party encountered him while travelling in the [[Katachthon Mountains]].
