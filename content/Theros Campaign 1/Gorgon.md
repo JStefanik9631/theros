@@ -1,11 +1,10 @@
 ```
 ---
 title: "this is working jason"
-draft: false
+draft: true
 tags:
   - 
 ---
- asd asd asd
 ```
 
 Hey what is up Jasno
