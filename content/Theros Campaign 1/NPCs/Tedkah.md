@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Tedkah-20240929151547538.webp|500]]
 
 **Race:** Human

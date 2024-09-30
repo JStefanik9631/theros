@@ -1,5 +1,9 @@
+---
+draft: false
+tags:
+  - God
+---
 ![[Pasted image 20240928000445.png]]
-
 ## Overview 
 
 **Title:** Goddess of Affliction

@@ -1,5 +1,10 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Antigonos-20240929140948663.webp|500]]
+
 **Race:** [[Minotaur]]
 
 **Gender:** Male

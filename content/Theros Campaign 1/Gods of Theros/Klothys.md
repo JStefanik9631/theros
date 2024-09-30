@@ -1,4 +1,9 @@
-![[Pasted image 20240928000533.png]]
+---
+draft: false
+tags:
+  - God
+---
+![[Pasted image 20240928000533.png|600]]
 ## Overview 
 
 **Title:** Goddess of Destiny

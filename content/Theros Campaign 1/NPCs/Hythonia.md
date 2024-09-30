@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[NPC-20240929145232171.webp|500]]
 
 **Titles:** Hythonia the Cruel, The Champion of Affliction, The Gorgon Queen

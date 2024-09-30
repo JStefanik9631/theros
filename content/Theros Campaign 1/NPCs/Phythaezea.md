@@ -1,5 +1,10 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Pasted image 20240928170701.png|500]]
+
 **Race:** [[Gorgon]]
 
 **Gender:** Female

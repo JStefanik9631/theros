@@ -1,4 +1,10 @@
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Agraforn Charel-20240929143846818.webp|500]]
+
 **Race:** Human
 
 **Gender:** Male

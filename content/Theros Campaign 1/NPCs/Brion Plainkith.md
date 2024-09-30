@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - NPC
+---
 
 ![[Brion Plainkith-20240929154355885.webp|500]]
 

@@ -1,4 +1,9 @@
-![[Pasted image 20240928000408.png]]
+---
+draft: false
+tags:
+  - God
+---
+![[Pasted image 20240928000408.png|]]
 ## Overview 
 
 **Title:** God of Horizons

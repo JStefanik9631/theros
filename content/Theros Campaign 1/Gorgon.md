@@ -1,10 +1,6 @@
-```
 ---
-title: "this is working jason"
 draft: true
 tags:
-  - 
+  - Creature
+  - Race
 ---
-```
-
-Hey what is up Jasno

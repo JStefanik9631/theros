@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Orestes-20240929150802587.webp|500]]
 
 **Race:** Human

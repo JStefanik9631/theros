@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[The Wolf Cub-20240929152922940.webp|500]]
 
 **Race:** Wolf

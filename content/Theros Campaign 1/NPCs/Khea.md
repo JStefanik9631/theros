@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Khea-20240929142250260.webp|500]]
 
 **Race:** Human

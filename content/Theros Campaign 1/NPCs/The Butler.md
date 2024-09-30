@@ -1,5 +1,10 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[The Butler-20240929151938832.webp|500]]
+
 **Race:** Human
 
 **Gender:** Male

@@ -1,8 +1,12 @@
-
+---
+draft: false
+tags:
+  - God
+---
 ![[Pasted image 20240928000129.png]]
 ## Overview 
 
-**Title:** 
+**Title:** God of Slaughter
 
 **Short Description**: Mogis is the god of slaughter, violence, and war. He is hatred unrestrained, empathy denied, and mercy forgotten, an entity whose very presence incites mortals to violence. Soldiers fear succumbing to his blood lust lest they dishonor themselves, but the vengeful and forsaken call to him for the gift of his rage. He is the brother of [[Iroas]], god of victory, and his antithesis in matters of warfare.
 

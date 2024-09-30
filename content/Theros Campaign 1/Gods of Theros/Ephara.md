@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - God
+---
 ![[Pasted image 20240928000412.png]]
 ## Overview 
 

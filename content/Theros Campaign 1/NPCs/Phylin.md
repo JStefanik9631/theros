@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - NPC
+---
 ![[Phylin-20240929151155280.webp|500]]
 
 **Race:** Human
