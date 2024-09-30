@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Theros
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my Theros campaign vault!
+
+This sort of functions as a wiki for everything in our campaign. I will be slowly updating it with fun features. For starters, you can search something in the search bar or click the a link like this one: [[Pharika]].
