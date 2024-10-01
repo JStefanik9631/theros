@@ -1,6 +1,5 @@
 ---
 draft: true
 tags:
-  - Creature
-  - Race
+  - Player
 ---
