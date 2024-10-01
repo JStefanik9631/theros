@@ -23,7 +23,7 @@ tags:
 
 [[Antigonos]] - Worshipper
 
-[[The Butler]] - ???
+[[The Butler]] - Linked to the [[Crown of Antigonos]]
 
 ## Relationships with Other Gods
 
