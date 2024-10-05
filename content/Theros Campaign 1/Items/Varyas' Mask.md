@@ -9,7 +9,7 @@ tags:
 
 **Related God:** [[Phenax]]
 
-**Type: Mask
+**Type:** Mask
 
 **Effect:** Unknown
 

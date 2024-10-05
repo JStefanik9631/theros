@@ -9,7 +9,7 @@ tags:
 
 **Related God:** Possibly [[Mogis]]
 
-**Type:** Crown
+**Type:** Crown (requires attunement)
 
 **Effect:** Allows the wearer to teleport to a far off abandoned kingdom. The wearer may then teleport back. The wearer may also command [[The Butler]] to perform various tasks. 
 
