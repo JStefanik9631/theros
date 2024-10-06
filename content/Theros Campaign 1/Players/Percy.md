@@ -15,8 +15,8 @@ tags:
 
 **Current Magical Items:** [[Cloak of Elvenkind]]
 
-**Pre-Campaign History:** 
+**Pre-Campaign History:** Unknown
 
 **Campaign History:** 
 
-1. Work in Progress
+1. Was on the receiving end of various racist comments from the other members of the party. 

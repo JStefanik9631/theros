@@ -15,9 +15,12 @@ tags:
 
 **Current Magical Items:** [[Boomerang Shield]], [[Crown of Antigonos]]
 
-**Pre-Campaign History:** 
+**Pre-Campaign History:**
+
+1. Never learned how to read. 
 
 **Campaign History:** 
 
-1. Obtained the [[Crown of Antigonos]] after passing his test with the help of [[Halcyon]]. 
-2. Work in Progress
+1. Hired a tutor in [[Meletis]] to teach him how to read. 
+2. Obtained the [[Crown of Antigonos]] after passing his test with the help of [[Halcyon]]. 
+3. Used the [[Crown of Antigonos]] to order [[The Butler]] to do various tasks. 

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
   - Player
 ---
@@ -22,4 +22,4 @@ tags:
 1. Visited [[Aria]] for guidance about [[Heliod]]. 
 2. Found a [[Trident of Fish Command]] in the [[Court of Orestes]].
 3. Found a [[Helm of Telepathy]] underneath the [[Pools of Lyth]]. 
-4. Visited [[Aria]] a second time, and received a promising message from [[Heliod]]. 
+4. Visited [[Aria]] a second time, and received the following message from [[Heliod]]: "Do the good you can, under the light of my sun. There is nothing more righteous."
