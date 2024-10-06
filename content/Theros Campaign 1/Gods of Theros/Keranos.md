@@ -25,7 +25,7 @@ tags:
 
 [[Tedkah]] - Oracle
 
-[[The Wolf Cub]] - Worshipper
+[[Wolf Cub]] - Worshipper
 
 ## Relationships with Other Gods
 
