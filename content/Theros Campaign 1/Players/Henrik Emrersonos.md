@@ -11,7 +11,7 @@ tags:
 
 **Age:** 38
 
-**Occupation:** Adventurer
+**Occupation:** Adventurer, Hunter
 
 **Current Magical Items:** [[Brooch of Shielding]], [[Eyes of the Eagle]], [[Square Stone]]
 
@@ -21,3 +21,4 @@ tags:
 
 1. Was given a [[Square Stone]] by [[Codglin]] after [[Codglin]] looked into his thoughts. 
 2. Obtained a [[Brooch of Shielding]] while exploring underneath the [[Pools of Lyth]]. 
+3. Informed the villagers of [[Isoton]] about the forest fire, leading to it being put out swiftly. 

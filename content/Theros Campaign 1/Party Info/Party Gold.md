@@ -13,4 +13,4 @@ tags:
 | **[[Henrik Emrersonos\|Henrik]]** | 248  |    1429     |
 | **[[Percy]]**                     | 237  |    1429     |
 | **[[Reginald]]**                  | 102  |    1429     |
-| **Party**                         | 0    |      0      |
+| **Party**                         | 23   |      0      |
