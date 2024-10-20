@@ -5,7 +5,7 @@ tags:
 ---
 ![[Pasted image 20241001002043.png|300]]
 
-**Current Owner:** [[Frederick]]
+**Current Owner:** [[Fredrick]]
 
 **Related God:** Possibly [[Mogis]]
 
@@ -15,5 +15,5 @@ tags:
 
 **Party Interactions:** 
 
-1. [[Frederick]] received the crown from [[Antigonos]] after passing the test to become his heir. 
-2. [[Frederick]] has asked [[The Butler]] to perform various tasks. 
+1. [[Fredrick]] received the crown from [[Antigonos]] after passing the test to become his heir. 
+2. [[Fredrick]] has asked [[The Butler]] to perform various tasks. 

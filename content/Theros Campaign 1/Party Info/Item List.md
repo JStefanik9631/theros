@@ -20,7 +20,7 @@ Shield (+1)
 [[Healing Potion]]
 Maul
 
-### [[Frederick]]
+### [[Fredrick]]
 
 [[Crown of Antigonos]]
 [[Boomerang Shield]]
@@ -69,4 +69,4 @@ Rope
 
 ### Party
 
-NA
+Bow (+1)

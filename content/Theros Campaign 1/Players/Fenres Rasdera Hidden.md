@@ -13,7 +13,13 @@ tags:
 
 **Occupation:** Adventurer
 
-**Current Magical Items:** 
+**Class:** Barbarian (Ancestral Guardian)
+
+**Max HP:** 58
+
+**AC:** 14
+
+**Current Magical Items:** [[Bloodrage Greataxe]]
 
 **Pre-Campaign History:** 
 

@@ -17,4 +17,4 @@ tags:
 **Party Interactions:** 
 
 1. He was hired by [[Reginald]] to find the missing [[Wolf Cub|wolf cub]] for the price of 100 gold. 
-2. He was not able to find the [[Wolf Cub|cub]] that disappeared from the tavern room of [[Reginald]] and [[Frederick]], but determined that the room had traces of transmutation magic, divine magic, and demonic magic. He assured [[Reginald]] that he would continue looking for the [[Wolf Cub|cub]].
+2. He was not able to find the [[Wolf Cub|cub]] that disappeared from the tavern room of [[Reginald]] and [[Fredrick]], but determined that the room had traces of transmutation magic, divine magic, and demonic magic. He assured [[Reginald]] that he would continue looking for the [[Wolf Cub|cub]].

@@ -17,4 +17,4 @@ tags:
 
 **Party Interactions:**
 1. The party encountered him while travelling in the [[Katachthon Mountains]].
-2. He was looking for an heir for his kingdom. This test involved staying in a pot and being suffocated with dirt. [[Frederick]] decided to take the test. With the help of [[Halcyon]] impersonating [[Mogis]], [[Frederick]] passed the test. He named [[Frederick]] the heir to his kingdom, gave him his crown, and fled while praising [[Mogis]] for freeing him of his curse. 
+2. He was looking for an heir for his kingdom. This test involved staying in a pot and being suffocated with dirt. [[Fredrick]] decided to take the test. With the help of [[Halcyon]] impersonating [[Mogis]], [[Fredrick]] passed the test. He named [[Fredrick]] the heir to his kingdom, gave him his crown, and fled while praising [[Mogis]] for freeing him of his curse. 

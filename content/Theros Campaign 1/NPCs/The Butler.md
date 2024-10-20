@@ -15,5 +15,6 @@ tags:
 
 **Party Interactions:** 
 
-1. [[Frederick]] met him when using the [[Crown of Antigonos]]. He has offered his assistance to [[Frederick]] and addresses him as 'Sir'.
-2. He told [[Frederick]] that he was "Hungry" when asked to perform the most recent action. 
+1. [[Fredrick]] met him when using the [[Crown of Antigonos]]. He has offered his assistance to [[Fredrick]] and addresses him as 'Sir'.
+2. He told [[Fredrick]] that he was "Hungry" when asked to perform the most recent action. 
+3. Upon being ordered to clear out [[Phythaezea]]'s treasure room, he yelled "Meat!" and started biting [[Fredrick]]'s neck after not being fed for weeks. 

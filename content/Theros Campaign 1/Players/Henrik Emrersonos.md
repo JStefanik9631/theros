@@ -13,6 +13,12 @@ tags:
 
 **Occupation:** Adventurer, Hunter
 
+**Class:** Ranger (Monster Slayer)
+
+**Max HP:** 49
+
+**AC:** 15
+
 **Current Magical Items:** [[Brooch of Shielding]], [[Eyes of the Eagle]], [[Square Stone]]
 
 **Pre-Campaign History:** Unknown

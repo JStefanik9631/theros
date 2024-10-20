@@ -6,9 +6,12 @@ tags:
 ### Glaring Gorgons
 
 1. [[Phythaezea]] ordered the party to "deal with" an oracle of [[Pharika]], [[Phylin]], who allegedly killed a [[Gorgon]] that was living underneath a healing pool of [[Pharika]]. To "motivate" the party, a geas spell was placed on [[Reginald]].
-2. The party travelled to [[Isoton]] where several villagers had been experimented on by the [[Gorgon]] as well as members of the [[Cult of the Serpent]]. The party also met [[Fenres Rasdera|Fenres]].
+2. The party travelled to [[Isoton]] where several villagers had been experimented on by the [[Gorgon]] as well as members of the [[Cult of the Fang]]. The party also met [[Fenres Rasdera|Fenres]].
 3. [[Halcyon]] met with [[Phylin]] and it was decided that the party and [[Phylin]] would travel back to [[Phythaezea]] and slay her.
-4. While preparing to leave, members of the [[Cult of the Serpent]] strolled into town looking for [[Reginald]]. 
+4. While preparing to leave, members of the [[Cult of the Fang]] strolled into town looking for [[Reginald]]. 
+5. After defeating the members of the [[Cult of the Fang]], the party set off to the [[Pools of Lyth]] with [[Phylin]]. 
+6. The party arrived at the [[Pools of Lyth]] and defeat [[Phythaezea]]. 
+7. The party rescued [[Gotarez]] and [[Jigrask]]. 
 
 ### Antiquarian Adventurers
 

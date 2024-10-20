@@ -40,5 +40,24 @@ tags:
 |99|A natural disaster of some sort occurs|
 |100|A god appears|
 
-  
-**
+# 16October2024
+
+1. party fights phythaeza
+2. gets loot and a lot of gold
+3. finds lizard man and fancy chef
+4. Phylin decides to remain here
+
+
+Loot:
+
+Ballatar's Bucker
+Wyvernstinger Scabbard
+Peacock's Vanity
+Deer Hunter's Armor
+Alchemy Sword
+Orcam's Razor
+Serpent's Cuff
+Death's Brand
+Cloak of Smoke and Cinder
+Bangle of the Starlit Raven
+Mirage Leathers

@@ -13,6 +13,12 @@ tags:
 
 **Occupation:** Adventurer
 
+**Class:** Paladin (Oath of Vengeance)
+
+**Max HP:** 49
+
+**AC:** 20
+
 **Current Magical Items:** [[Goggles of Night]], [[Helm of Telepathy]], [[Trident of Fish Command]]
 
 **Pre-Campaign History:** 

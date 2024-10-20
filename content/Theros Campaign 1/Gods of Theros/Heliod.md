@@ -23,7 +23,7 @@ tags:
 
 [[Aria]] - Oracle
 
-[[Frederick]] - Champion
+[[Fredrick]] - Champion
 
 ## Relationships with Other Gods
 

@@ -5,7 +5,7 @@ tags:
 ---
 ![[Pasted image 20241004233030.png|300]]
 
-**Current Owner:** [[Frederick]]
+**Current Owner:** [[Fredrick]]
 
 **Type**: Shield (requires attunement)
 

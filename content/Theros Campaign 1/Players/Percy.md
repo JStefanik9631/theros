@@ -13,6 +13,12 @@ tags:
 
 **Occupation:** Champion of [[Athreos]]
 
+**Class:** Rogue (Phantom)
+
+**Max HP:** 37
+
+**AC:** 15
+
 **Current Magical Items:** [[Cloak of Elvenkind]]
 
 **Pre-Campaign History:** Unknown

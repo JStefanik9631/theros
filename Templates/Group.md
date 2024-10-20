@@ -7,7 +7,7 @@ tags:
 
 **Type:** 
 
-**Related God:**
+**Related Gods:**
 
 **Alignment:** 
 
