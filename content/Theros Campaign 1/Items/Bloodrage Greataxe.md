@@ -5,7 +5,7 @@ tags:
 ---
 ![[Pasted image 20241004231032.png|300]]
 
-**Current Owner:** [[Fenres Rasdera]]
+**Current Owner:** [[Fenres]]
 
 **Type**: Greataxe (requires attunement)
 

@@ -51,13 +51,13 @@ tags:
 
 1. The party arrived in [[Isoton]] after 2 days of travel by boat. 
 2. They quickly found out that the oracle [[Phylin]] had saved the villagers of [[Isoton]] from being experimented on by the local [[Gorgon]] as well as members of the [[Cult of the Fang]]. 
-3. [[Halcyon]] met with [[Phylin]] and her companion [[Fenres Rasdera|Fenres]]. They decided that they would take [[Phylin]] "prisoner", return to [[Phythaezea]], and kill her. [[Halcyon]] saw that [[Phylin]] had been afflicted or cursed similarly to the villagers. 
+3. [[Halcyon]] met with [[Phylin]] and her companion [[Fenres|Fenres]]. They decided that they would take [[Phylin]] "prisoner", return to [[Phythaezea]], and kill her. [[Halcyon]] saw that [[Phylin]] had been afflicted or cursed similarly to the villagers. 
 4. Members of the [[Cult of the Fang]] visited [[Isoton]] looking for [[Reginald]]. They were sent to assist [[Reginald]] in returning with [[Phylin]]. The party swiftly dispatched them after surprising them. 
 5. The party left [[Isoton]] and decided to travel by land back to the [[Pools of Lyth]] with [[Phylin]] in a cart.
 
 ### On the Road to the Pools of Lyth
 
-1. Encountered a group of [[Akroans]] on the outskirts of [[Akros]]. [[Halcyon]] was able to talk his way out of the encounter with [[Fenres Rasdera|Fenres]] being invisible at the time. 
+1. Encountered a group of [[Akroans]] on the outskirts of [[Akros]]. [[Halcyon]] was able to talk his way out of the encounter with [[Fenres|Fenres]] being invisible at the time. 
 2. The party returned to the [[Pools of Lyth]] without further incident. 
 
 ### Pools of Lyth
@@ -68,3 +68,4 @@ tags:
 4. The same half of the party encountered [[Dagoth]], the chosen of Erebos. [[Dagoth]] informed the party that he would be taking [[Phylin]]'s body as well as the newly recused [[Jigrask]]. The party did not protest. 
 5. The other half of the party decided to looks for any treasure that [[Phythaezea]] had. They found a hidden alcove that contained [[Gotarez]], a chef who was kept for several years as a slave. He informed the party of [[Phythaezea]]'s bedroom where [[Fredrick]] found a lot of treasure.
 6. [[Fredrick]] ordered [[The Butler]] to take all of the treasure. After weeks of not being fed, [[The Butler]] jumped at [[Fredrick]], biting into his neck. 
+7. [[Fredrick]] was missing after investigating the treasure room. The party found the [[Crown of Antigonos]] nearby and assumed his disappearance had something to do with it. The party had [[Corvel]] attune to the crown and meet with [[The Butler]] who confirmed [[Fredrick]] was taken by him for not feeding him. [[The Butler]] brought the party together to his location and his true appearance was revealed. 

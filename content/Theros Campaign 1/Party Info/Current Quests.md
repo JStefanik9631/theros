@@ -6,7 +6,7 @@ tags:
 ### Glaring Gorgons
 
 1. [[Phythaezea]] ordered the party to "deal with" an oracle of [[Pharika]], [[Phylin]], who allegedly killed a [[Gorgon]] that was living underneath a healing pool of [[Pharika]]. To "motivate" the party, a geas spell was placed on [[Reginald]].
-2. The party travelled to [[Isoton]] where several villagers had been experimented on by the [[Gorgon]] as well as members of the [[Cult of the Fang]]. The party also met [[Fenres Rasdera|Fenres]].
+2. The party travelled to [[Isoton]] where several villagers had been experimented on by the [[Gorgon]] as well as members of the [[Cult of the Fang]]. The party also met [[Fenres|Fenres]].
 3. [[Halcyon]] met with [[Phylin]] and it was decided that the party and [[Phylin]] would travel back to [[Phythaezea]] and slay her.
 4. While preparing to leave, members of the [[Cult of the Fang]] strolled into town looking for [[Reginald]]. 
 5. After defeating the members of the [[Cult of the Fang]], the party set off to the [[Pools of Lyth]] with [[Phylin]]. 
@@ -24,6 +24,7 @@ tags:
 1. The [[Wolf Cub]] disappeared overnight while the party was sleeping in a tavern. 
 2. The party investigated, but found nothing. [[Reginald]] hired [[Brion Plainkith]] to attempt to find the cub.
 3. [[Brion Plainkith]] investigated and told the party that he detected traces of transmutation, divine, and demonic magic in the tavern room. He had no further leads, but plans to keep his ears open. 
+4. The fate of the [[Wolf Cub]] was revealed by [[The Butler]] to [[Reginald]]. 
 
 ### An Impossible Cipher
 

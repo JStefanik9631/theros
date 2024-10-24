@@ -5,6 +5,7 @@ tags:
 ---
 ### [[Corvel]]
 
+[[Alchemy Blade]]
 Black Velvet Mask
 [[Goggles of Night]]
 [[Healing Potion]]
@@ -14,10 +15,11 @@ Shield (+1)
 [[Trident of Fish Command]]
 [[Water of Lyth]]
 
-### [[Fenres Rasdera|Fenres]]
+### [[Fenres|Fenres]]
 
 [[Bloodrage Greataxe]]
 [[Healing Potion]]
+[[Orcam's Razor]]
 Maul
 
 ### [[Fredrick]]
@@ -32,6 +34,7 @@ Rope
 [[Amulet of Proof against Detection and Location]]
 Dagger
 [[Dancing Shoes]]
+[[Deer Hunter's Armor]]
 [[Green Glasses]]
 [[Healing Potion]]
 [[Phythaezea's Lyre]]
@@ -40,7 +43,7 @@ Rope 2
 [[Unknown Sword]]
 [[Water of Lyth]]
 
-### [[Henrik Emrersonos|Henrik]]
+### [[Henrik|Henrik]]
 
 Bow (+1)
 [[Brooch of Shielding]]
@@ -49,6 +52,7 @@ Harpy Wings
 Rope
 [[Square Stone]]
 [[Water of Lyth]]
+[[Wyvernstinger Scabbard]]
 
 ### [[Percy]]
 
@@ -62,6 +66,7 @@ Rope
 
 [[Adamantine Chain Shirt]]
 [[Bloodwell Vial]]
+[[Cloak of Smoke and Cinder]]
 Grappling Hook
 [[Healing Potion]]
 Rope

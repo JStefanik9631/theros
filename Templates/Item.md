@@ -7,6 +7,6 @@ tags:
 
 **Current Owner:** NA
 
-**Type**: NA
+**Type**: NA (requires attunement)
 
 **Effect:** NA

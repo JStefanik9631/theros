@@ -3,7 +3,7 @@ draft: true
 tags:
   - Player
 ---
-![[NPC-20240929145232171.webp|500]]
+![[Pasted image 20241024154403.png|500]]
 
 **Race:** Human
 

@@ -5,7 +5,7 @@ tags:
 ---
 ![[Pasted image 20241006153822.png|300]]
 
-**Current Owner:** [[Henrik Emrersonos]]
+**Current Owner:** [[Henrik]]
 
 **Type**: Brooch (requires attunement)
 

@@ -21,7 +21,7 @@ tags:
 
 ## Related NPCs
 
-
+[[Dagoth]]
 
 ## Relationships with Other Gods
 

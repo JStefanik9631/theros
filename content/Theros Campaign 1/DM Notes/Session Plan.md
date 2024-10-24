@@ -9,7 +9,7 @@ tags:
 1. Party arrives at [[Isoton]] after 5 days of travel.
 2. They find a pretty happy village, mainly human populace. 
 3. Upon looking a bit, some villagers have snake like features.
-4. Asking around, the party finds that [[Phylin]] and [[Fenres Rasdera]] killed a [[Gorgon]] that was experimenting on the town along with her cultists.
+4. Asking around, the party finds that [[Phylin]] and [[Fenres]] killed a [[Gorgon]] that was experimenting on the town along with her cultists.
 5. Party deals with drama
 6. Yuan-ti later arrive trying to deal with the party. Offering help to kill [[Phylin]] if they agree. 
 
@@ -50,14 +50,14 @@ tags:
 
 Loot:
 
-Ballatar's Bucker
-Wyvernstinger Scabbard
-Peacock's Vanity
-Deer Hunter's Armor
-Alchemy Sword
-Orcam's Razor
+Ballatar's Bucker 
+Wyvernstinger Scabbard - take
+Peacock's Vanity - take
+Deer Hunter's Armor - take studded leather
+Alchemy Sword - take
+Orcam's Razor - take
 Serpent's Cuff
 Death's Brand
-Cloak of Smoke and Cinder
+Cloak of Smoke and Cinder - take
 Bangle of the Starlit Raven
 Mirage Leathers

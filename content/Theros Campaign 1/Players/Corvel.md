@@ -3,7 +3,7 @@ draft: false
 tags:
   - Player
 ---
-![[NPC-20240929145232171.webp|500]]
+![[Pasted image 20241024154403.png|500]]
 
 **Race:** Human
 
@@ -31,3 +31,5 @@ tags:
 4. Remembered seeing a hidden entrance outside of the [[Pools of Lyth]]. Lead the party there, After entering the dungeon, had no idea how he knew there was an entrance there. 
 5. Found a [[Helm of Telepathy]] underneath the [[Pools of Lyth]]. 
 6. Visited [[Aria]] a second time, and received a promising message from [[Heliod]]. 
+7. Found the [[Alchemy Blade]] in [[Phythaezea]]'s bedroom. 
+8. Attuned to the [[Crown of Antigonos]] to attempt to find [[Fredrick]]. Went to the ruined kingdom to look for [[Fredrick]]. He believes that [[Fredrick]] has pieces of himself missing. 
