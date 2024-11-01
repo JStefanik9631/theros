@@ -68,10 +68,11 @@ Rope
 [[Bloodwell Vial]]
 [[Cloak of Smoke and Cinder]]
 Grappling Hook
-[[Healing Potion]]
 Rope
 [[Water of Lyth]]
 
 ### Party
 
 Bow (+1)
+A two-story house in [[Meletis]]
+[[Peacock's Vanity]]

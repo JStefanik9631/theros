@@ -61,3 +61,12 @@ Death's Brand
 Cloak of Smoke and Cinder - take
 Bangle of the Starlit Raven
 Mirage Leathers
+
+
+29October2024
+
+1. Party fights The Butler
+2. Butler surrenders near the end and warns the party that if they kill him the crown will break, and you will not be able to teleport back. They have been teleporting to a real place, with an illusion placed on it.
+3. Fredrick will return with no bodily harm, but with PTSD.
+4. Party may learn that this seems to be a corrupted church of Erebos and the Butler was a demon smuggled out of the Underworld. There are more like him. 
+5. If the party kills him, they are teleported to the east side of Theros over the mountains, in a very unfamiliar place. They do get the ruined city as a reward. 

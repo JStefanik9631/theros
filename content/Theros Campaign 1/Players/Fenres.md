@@ -30,3 +30,4 @@ tags:
 3. Carried [[Phylin]]'s body to the [[Pools of Lyth]] and prayed to [[Pharika]] with [[Halcyon]] to try and revive her. [[Phylin]]'s familiar appeared to them and informed them that [[Phylin]] did not wish to return due to her affliction turning her into a [[Daughter of Pharika]]. They respected her wishes and decided to not revive her. He offered his finals words to the familiar to bring to [[Phylin]], “Thank you for being one of so very few to see me for the monster I am not. I only wish you got to see the parts of me that were so much more.” 
 4. The Chosen of [[Erebos]], [[Dagoth]], appeared to him, [[Halcyon]], and [[Percy]]. The Chosen was tasked with retrieving [[Phylin]]'s body as well as [[Jigrask]]. 
 5. Found the [[Orcam's Razor]] in [[Phythaezea]]'s bedroom. 
+6. Carried the [[Peacock's Vanity]] back to [[Meletis]]. 

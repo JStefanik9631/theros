@@ -33,3 +33,5 @@ tags:
 6. Visited [[Aria]] a second time, and received a promising message from [[Heliod]]. 
 7. Found the [[Alchemy Blade]] in [[Phythaezea]]'s bedroom. 
 8. Attuned to the [[Crown of Antigonos]] to attempt to find [[Fredrick]]. Went to the ruined kingdom to look for [[Fredrick]]. He believes that [[Fredrick]] has pieces of himself missing. 
+9. While reading the thoughts of [[The Butler]], he saw imagery that he believes to be a different plane of existence with demonic creatures and a being above all of them. 
+10. Plans to try and find a way to break the curse of the [[Crown of Antigonos]] or at least remove it. In the meantime, [[The Butler]] requires animal blood within 7 days. 
