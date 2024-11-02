@@ -19,7 +19,7 @@ tags:
 
 **AC:** 15
 
-**Current Magical Items:** [[Brooch of Shielding]], [[Eyes of the Eagle]], [[Square Stone]], 
+**Current Magical Items:** [[Brooch of Shielding]], [[Eyes of the Eagle]], [[Square Stone]], [[Staff of the Python]]
 
 **Pre-Campaign History:** Unknown
 

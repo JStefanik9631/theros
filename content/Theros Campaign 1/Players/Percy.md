@@ -19,7 +19,7 @@ tags:
 
 **AC:** 15
 
-**Current Magical Items:** [[Cloak of Elvenkind]]
+**Current Magical Items:** [[Cloak of Elvenkind]], [[Shadow Ink]]
 
 **Pre-Campaign History:** Unknown
 

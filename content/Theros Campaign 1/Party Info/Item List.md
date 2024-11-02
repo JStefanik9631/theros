@@ -51,6 +51,7 @@ Bow (+1)
 Harpy Wings
 Rope
 [[Square Stone]]
+[[Staff of the Python]]
 [[Water of Lyth]]
 [[Wyvernstinger Scabbard]]
 
@@ -60,6 +61,7 @@ Rope
 Dagger
 Rapier
 Rope
+[[Shadow Ink]]
 [[Water of Lyth]]
 
 ### [[Reginald]]
@@ -74,5 +76,6 @@ Rope
 ### Party
 
 Bow (+1)
-A two-story house in [[Meletis]]
+[[Folding Tent]]
+A two-story house in [[Meletis]], with a basement
 [[Peacock's Vanity]]
