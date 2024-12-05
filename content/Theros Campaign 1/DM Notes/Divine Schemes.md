@@ -20,7 +20,7 @@ tags:
 |                 |        |                |
 
 
-Lightbringer? add to akros maybe
+Lightbringer? add to akros maybe. Make an emissary from a sorcerer family
 
 Currently, the monarchy is in a state of turmoil. King Anax has died, and his wife, Queen Cymede, has disappeared. An oracle of Keranos, the queen is said to have transformed into a pillar of fire and vanished into the wind, but until her death is certain, the lektoi are reluctant to name a new monarch. Anax and Cymede have no children, so the king’s niece, Taranika, acts as regent, attempting to guide the polis through what is sure to be a difficult transition. 
 

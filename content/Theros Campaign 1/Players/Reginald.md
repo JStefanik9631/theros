@@ -19,7 +19,7 @@ tags:
 
 **AC:** 15
 
-**Current Magical Items:** [[Adamantine Chain Shirt]], [[Bloodwell Vial|Bloodwell Vial (+1)]]
+**Current Magical Items:** [[Bloodwell Vial|Bloodwell Vial (+1)]], [[Wand of Detect Magic]]
 
 **Pre-Campaign History:**
 

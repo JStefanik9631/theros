@@ -7,9 +7,9 @@ tags:
 | Player                 | Gold | Banked Gold |
 | ---------------------- | :--: | :---------: |
 | **[[Corvel]]**         | 236  |    3691     |
-| **[[Fenres\|Fenres]]** | 150  |    3691     |
+| **[[Fenres\|Fenres]]** | 200  |    3871     |
 | **[[Halcyon]]**        | 169  |    3691     |
-| **[[Henrik\|Henrik]]** | 248  |    1691     |
+| **[[Henrik\|Henrik]]** |  50  |    2119     |
 | **[[Percy]]**          | 237  |    3141     |
-| **[[Reginald]]**       | 102  |    3691     |
+| **[[Reginald]]**       | 102  |    2191     |
 | **Party**              |  0   |      0      |

@@ -63,10 +63,49 @@ Bangle of the Starlit Raven
 Mirage Leathers
 
 
-29October2024
+# 29October2024
 
 1. Party fights The Butler
 2. Butler surrenders near the end and warns the party that if they kill him the crown will break, and you will not be able to teleport back. They have been teleporting to a real place, with an illusion placed on it.
 3. Fredrick will return with no bodily harm, but with PTSD.
 4. Party may learn that this seems to be a corrupted church of Erebos and the Butler was a demon smuggled out of the Underworld. There are more like him. 
 5. If the party kills him, they are teleported to the east side of Theros over the mountains, in a very unfamiliar place. They do get the ruined city as a reward. 
+
+
+
+# 04December2024
+
+1. Magical item shop
+2. Free time
+
+Halcyon:
+>play music/story tell for money when i can
+>**try to find magic stuff to sell to rich guy**
+>try to find a way to fuck with oribos/help heliod
+>**start to learn lizard guys language** 
+>**keep trying to find anything about lizard guy**
+>**make a hiding spot in the house for my stuff and get a chest with a lock** 
+>**make sure my room can be sneaked out of at night easily** 
+>**find out corvel oath**
+
+Henrik:
+
+**Hunt**
+Train Archery
+Darts and hustle for money
+
+Reginald:
+
+**Speak to Tedkah about cub, learn about Lightbringer**
+Work at Dispel Dat Spell to gain knowledge and money
+
+**Corvel:**
+
+**Remove crown**
+Play poker
+look for heliod work
+
+Fenris:
+**Hunting**
+**Help Corvel**
+Train Strength

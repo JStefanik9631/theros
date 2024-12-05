@@ -8,7 +8,7 @@ tags:
 [[Alchemy Blade]]
 Black Velvet Mask
 [[Goggles of Night]]
-[[Healing Potion]]
+2 [[Healing Potion]]s
 [[Helm of Telepathy]]
 Rope
 Shield (+1)
@@ -17,8 +17,9 @@ Shield (+1)
 
 ### [[Fenres|Fenres]]
 
+[[Adamantine Chain Shirt]]
 [[Bloodrage Greataxe]]
-[[Healing Potion]]
+2 [[Healing Potion]]s
 [[Orcam's Razor]]
 Maul
 
@@ -26,7 +27,6 @@ Maul
 
 [[Crown of Antigonos]]
 [[Boomerang Shield]]
-4 [[Healing Potion]]s
 Rope
 
 ### [[Halcyon]]
@@ -48,7 +48,7 @@ Rope 2
 Bow (+1)
 [[Brooch of Shielding]]
 [[Eyes of the Eagle]]
-Harpy Wings
+2 [[Healing Potion]]s
 Rope
 [[Square Stone]]
 [[Staff of the Python]]
@@ -66,12 +66,12 @@ Rope
 
 ### [[Reginald]]
 
-[[Adamantine Chain Shirt]]
 [[Bloodwell Vial]]
 [[Cloak of Smoke and Cinder]]
 Grappling Hook
 Rope
 [[Water of Lyth]]
+[[Wand of Detect Magic]]
 
 ### Party
 

@@ -19,7 +19,7 @@ tags:
 
 **AC:** 14
 
-**Current Magical Items:** [[Bloodrage Greataxe]], [[Orcam's Razor]]
+**Current Magical Items:** [[Bloodrage Greataxe]], [[Orcam's Razor]], [[Adamantine Chain Shirt]]
 
 **Pre-Campaign History:** Unknown
 
