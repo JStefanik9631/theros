@@ -13,7 +13,7 @@ tags:
 
 **Location:** 
 
-**Known Members:** [[King of the Ashlands]], Sorcerer family (pointy hat video), [[Agraforn Charel]], [[The Boss]]
+**Known Members:** 
 
 **Relationships:** 
 

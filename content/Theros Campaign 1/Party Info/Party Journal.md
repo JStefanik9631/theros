@@ -70,3 +70,8 @@ tags:
 6. [[Fredrick]] ordered [[The Butler]] to take all of the treasure. After weeks of not being fed, [[The Butler]] jumped at [[Fredrick]], biting into his neck. 
 7. [[Fredrick]] was missing after investigating the treasure room. The party found the [[Crown of Antigonos]] nearby and assumed his disappearance had something to do with it. The party had [[Corvel]] attune to the crown and meet with [[The Butler]] who confirmed [[Fredrick]] was taken by him for not feeding him. [[The Butler]] brought the party together to his location and his true appearance was revealed. 
 8. The party fought with [[The Butler]] which ended with [[Fredrick]] being killed and [[Corvel]] being attuned to the crown. 
+
+### Meletis
+
+1. The party performed various tasks during their 6 weeks of free time.
+2. The party grouped up to visit [[Khea]], however she and [[Varyas' Mask]] were missing. The party did find a hidden box with the translation in side. 

@@ -9,7 +9,7 @@ tags:
 
 **Gender:** Male
 
-**Age:** 25
+**Age:** Dead (25)
 
 **Occupation:** Champion of [[Heliod]]
 
@@ -33,3 +33,4 @@ tags:
 4. After defeating the [[Gorgon]] [[Phythaezea]], he found an alcove where she kept the blind chef [[Gotarez]] as a slave for many decades. 
 5. Upon finding [[Phythaezea]]'s treasure room, he commanded [[The Butler]] to take all of the treasure. [[The Butler]] appeared, saw Frederick, yelled "Meat!", and started ravenously biting his neck. 
 6. Fredrick was captured by [[The Butler]] with his fate left unknown. 
+7. He was later killed indirectly by the party when fighting [[The Butler]].

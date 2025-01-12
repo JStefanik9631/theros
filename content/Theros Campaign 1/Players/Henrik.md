@@ -29,3 +29,5 @@ tags:
 2. Obtained a [[Brooch of Shielding]] while exploring underneath the [[Pools of Lyth]]. 
 3. Informed the villagers of [[Isoton]] about the forest fire, leading to it being put out swiftly. 
 4. Found the [[Wyvernstinger Scabbard]] in [[Phythaezea]]'s bedroom. 
+5. Went on a hunt with [[Fenres]] and killed a Manticore. 
+8. Went hunting with [[Fenres]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 

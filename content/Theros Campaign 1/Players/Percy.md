@@ -26,3 +26,6 @@ tags:
 **Campaign History:** 
 
 1. Was on the receiving end of various racist comments from the other members of the party. 
+2. Purchased a basement expansion to the house the party lives in.
+3. Runs a weekly poker night in the basement. 
+4. Performed some investigations of his own into secret matters.

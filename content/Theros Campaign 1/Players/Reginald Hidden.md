@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
   - Player
 ---
@@ -37,5 +37,5 @@ tags:
 8. [[The Butler]] informed Reginald that it was he who killed the [[Wolf Cub]]. Reginald believes that he failed [[Keranos]] by allowing it to die. 
 9. Sought advice from [[Tedkah]] regarding repentance. Traveled to the top of the [[Katachthon Mountains]] and was struck by lightning twice. 
 10. A man and woman in red robes found him close to death. The woman tried to help him, but the man knocked him unconscious. He later woke up bandaged and found a small piece of a red robe that smelled like flowers. 
-11. Received a message from [[Keranos]] through [[Tedkah]].
+11. Received a message from [[Keranos]] through [[Tedkah]] stating: "Slay the Lightbringer! He spreads false hoods in my name and must be dealt with. You now have something of his, use it to find him."
 

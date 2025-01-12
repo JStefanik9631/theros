@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags:
   - NPC
 ---
@@ -21,3 +21,4 @@ tags:
 **Party Interactions:** 
 
 1. Was rescued by the party after being kept as a slave of [[Phythaezea]]. 
+2. He now works as a chef for the party.

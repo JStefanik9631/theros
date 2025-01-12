@@ -9,7 +9,7 @@ tags:
 
 **Gender:** Male
 
-**Age:** 22
+**Age:** Dead (22)
 
 **Occupation:** Adventurer
 
@@ -31,3 +31,8 @@ tags:
 4. The Chosen of [[Erebos]], [[Dagoth]], appeared to him, [[Halcyon]], and [[Percy]]. The Chosen was tasked with retrieving [[Phylin]]'s body as well as [[Jigrask]]. 
 5. Found the [[Orcam's Razor]] in [[Phythaezea]]'s bedroom. 
 6. Carried the [[Peacock's Vanity]] back to [[Meletis]]. 
+7. Went on a hunt with [[Henrik]] and killed a Manticore. 
+8. Went hunting with [[Henrik]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 
+9. Snuck a magical item into [[Halcyon]]'s bag before he left [[Dispel Dat Spell]], which triggered a defense system that "disintegrated" [[Halcyon]]. 
+10. Met with [[Usorin Thiben]] as well as the party and denied his part in anything.
+11. Was lured to a building where [[Halcyon]] killed him along with four other men. 

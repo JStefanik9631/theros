@@ -30,4 +30,5 @@ tags:
 3. Lied to the party about bringing [[Phylin]] to [[Phythaezea]] to circumvent [[Reginald]]'s geas spell. 
 4. On the way back to [[Phythaezea]], lied to a group of [[Akroans]] about what happened in [[Isoton]]. Told them that the [[Cult of the Fang]] as well as a group of [[Minotaur|minotaurs]] attacked the town and they dealt with them. 
 5. Found the [[Deer Hunter's Armor]] in [[Phythaezea]]'s bedroom. 
-6. 
+6. Was "disintegrated" by the defense system at [[Dispel Dat Spell]]. 
+7. He later returned and killed [[Fenres]]. He lied to the party and feigned ignorance about [[Fenres]] whereabouts. 

@@ -35,3 +35,6 @@ tags:
 8. Attuned to the [[Crown of Antigonos]] to attempt to find [[Fredrick]]. Went to the ruined kingdom to look for [[Fredrick]]. He believes that [[Fredrick]] has pieces of himself missing. 
 9. While reading the thoughts of [[The Butler]], he saw imagery that he believes to be a different plane of existence with demonic creatures and a being above all of them. 
 10. Plans to try and find a way to break the curse of the [[Crown of Antigonos]] or at least remove it. In the meantime, [[The Butler]] requires animal blood within 7 days. 
+11. Had the [[Crown of Antigonos]] removed with no memory of that happening. 
+12. Told [[Halcyon]] and [[Reginald]] his oath and his mission to get revenge on [[Phenax]].
+13. Went hunting with [[Henrik]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 
