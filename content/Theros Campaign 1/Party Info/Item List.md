@@ -18,12 +18,6 @@ Shield (+1)
 
 ### [[Fenres|Fenres]]
 
-[[Adamantine Chain Shirt]]
-[[Bloodrage Greataxe]]
-2 [[Healing Potion]]s
-[[Orcam's Razor]]
-Maul
-
 
 ### [[Fredrick]]
 
