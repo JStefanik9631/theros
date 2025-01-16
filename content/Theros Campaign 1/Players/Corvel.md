@@ -38,3 +38,4 @@ tags:
 11. Had the [[Crown of Antigonos]] removed with no memory of that happening. 
 12. Told [[Halcyon]] and [[Reginald]] his oath and his mission to get revenge on [[Phenax]].
 13. Went hunting with [[Henrik]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 
+14. Said a prayer to Heliod. 

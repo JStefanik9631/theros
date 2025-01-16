@@ -38,3 +38,4 @@ tags:
 10. Had the [[Crown of Antigonos]] removed with no memory of that happening. The [[Crown of Antigonos]] was actually removed by a figure in a red robe who said he dealt with these kinds of items before. After casting a spell, he was left with no memory of the item or of any of the events regarding the [[Crown of Antigonos]].  
 11. Told [[Halcyon]] and [[Reginald]] his oath and his mission to get revenge on [[Phenax]].
 12. Went hunting with [[Henrik]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 
+13. Said the following prayer to [[Heliod]]: "Oh great [[Heliod]] my righteous God I need your guidance on my quest we got this poem deciphered by another oracle about a game of fate between [[Phenax]] and [[Athreos]] and granting 8 individuals gifts beyond normal means and they all seem to be cursed afterwards is there anything you can guide me towards to begin to unravel the mysteries of the past".

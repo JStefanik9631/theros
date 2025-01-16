@@ -73,7 +73,7 @@ Mirage Leathers
 
 
 
-# 04December2024
+# 08January2025
 
 1. Magical item shop
 2. Free time
@@ -94,76 +94,23 @@ Niko Dead Time:
 
 ![[Pasted image 20250108025837.png]]
 
-Beneath the sky where tempests roar,  
-Where stars in endless patterns soar,  
-Phenax spoke with a cunning grin,  
-"A game of fate—shall we begin?
 
-Grant mortal minds a touch of flame,  
-And see if ruin takes their name.  
-Inspire their hearts, unseen, unknown,  
-And watch the seeds of chaos sown."
-
-The silent god, their face concealed,  
-Agreed to see what fate revealed.  
-With unseen hand, they cast the spark,  
-And lit the path both bright and dark.
-
-Eight souls arose, their hearts alight,  
-Each cursed to weave the threads of blight.
-
-**Actor - sowing discord in the populace causing revolt**
-The first awoke with painted guise,  
-Their words a web of truth and lies.  
-Their stage became a treacherous snare,  
-And none could see the danger there.
+**Actor - sowing discord in the populace causing revolt** **- is a wizard using contingency fireballs to spook people while making shows about the revolt**, **follower of Phenax**
 
 **Alchemist - Creating a dirty bomb using Phylen**
-The second brewed in shadowed glow,  
-A poison none would dare to know.  
-With whispered words and secrets vile,  
-They labored long to beguile.
 
 **Inventor - [[King of the Ashlands]]**
-Another shaped with hands of gold,  
-Devices vast, both new and old.  
-Their wonders spun from boundless dreams,  
-Became machines of fatal schemes.
 
 **Sailor - Falls in love with Thasa and dies? Maybe pirate**
-A sailor braved the tempest’s tide,  
-Where unseen horrors seethe and bide.  
-They mapped a course through waters cursed,  
-And doomed the world with each traverse.
 
 **Miner - Digging a tunnel to the Titan's prison**
-Deep in the earth, with lantern’s gleam,  
-Another sought a fractured dream.  
-Through depths unknown, their hands laid bare  
-The ancient power slumbering there.
 
 **Ancestor - [[The Ancestor]]**
-Their shadow looms where kinfolk tread,  
-A whispered name the wise still dread.  
-Their will commands, their gaze consumes,  
-A living curse the bloodline blooms.
 
 **Thief - Steals an artifact that hides the sun**
-A thief of breath, unseen, untold,  
-Their touch as sharp as winter’s cold.  
-Through shadowed streets, they wove their way,  
-And stole the dawn from breaking day.
 
 **Shadow - A shapeshifter that follows the group**
-But one was shrouded, name and face,  
-A fleeting ghost, a hollow space.  
-Even gods could not define  
-The source of this enigma’s line.
 
-And so the world, in silence, turned,  
-As fires rose and futures burned.  
-What gods began, the mortals sealed,  
-A truth untamed, a fate revealed.
 
 ________________________________________________
 
@@ -229,3 +176,15 @@ And so the world, in silence, turned,
 As fires rose and futures burned.  
 What gods began, the mortals sealed,  
 A truth untamed, a fate revealed.
+
+# 15January2025
+
+1. At Khea's place. Return home and find a gold funeral mask in their foyer with the message "Return what you found."
+2. Party debates poem.
+3. Alex PI
+4. Party has poker night with each other.
+5. At the end, a masked Keith shows up with a golden mask on that has a contingency level 7 fireball on it (12d6). His mask says, "you were warned".
+
+
+Amy/Amelia? - oracle of phenax
+Pythis - scholar with henryk

@@ -31,3 +31,4 @@ tags:
 4. Found the [[Wyvernstinger Scabbard]] in [[Phythaezea]]'s bedroom. 
 5. Went on a hunt with [[Fenres]] and killed a Manticore. 
 8. Went hunting with [[Fenres]] and [[Corvel]]. After attempting to fight the hydra, all of them escaped before being killed. 
+9. Went to the library and met with Pythis to discuss the poem. Pythis seemed knowledgeable on the poem and wanted to discuss it with a few of his colleagues. 

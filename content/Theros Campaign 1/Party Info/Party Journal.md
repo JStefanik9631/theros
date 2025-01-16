@@ -75,3 +75,4 @@ tags:
 
 1. The party performed various tasks during their 6 weeks of free time.
 2. The party grouped up to visit [[Khea]], however she and [[Varyas' Mask]] were missing. The party did find a hidden box with the translation in side. 
+3. The party discussed [[Varyas' Poem]] and shared it with a few others. During Poker Night, a bound Pythis that [[Henrik]] met ran into the house. When his mask was removed, a fireball spell went off burning everyone and killing Pythis. The mask he was wearing had the following message on the back "Little adventurers should not stick their nose where it doesn't belong."

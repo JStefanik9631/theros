@@ -38,4 +38,6 @@ tags:
 9. Sought advice from [[Tedkah]] regarding repentance. Traveled to the top of the [[Katachthon Mountains]] and was struck by lightning twice. 
 10. A man and woman in red robes found him close to death. The woman tried to help him, but the man knocked him unconscious. He later woke up bandaged and found a small piece of a red robe that smelled like flowers. 
 11. Received a message from [[Keranos]] through [[Tedkah]] stating: "Slay the Lightbringer! He spreads false hoods in my name and must be dealt with. You now have something of his, use it to find him."
-
+12. Asked [[Tedkah]] about the poem, he did not have much insight. 
+13. Said a prayer to [[Keranos]]: "[[Keranos]], I have been gaining knowledge recently and am trying to follow in your ways. I request information about what I experienced on the mountain (woman and man). (Reginald has a crush on that lady cause she healed him from death). I would like to know how to find and stop the [[Lightbringer]], who is the [[Lightbringer]]? What should I do about the poem about [[Phenax]] and the poem?"
+14. Investigated the red cloth and found that it was manufactured in [[Akros]].

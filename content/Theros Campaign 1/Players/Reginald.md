@@ -38,4 +38,7 @@ tags:
 9. Sought advice from [[Tedkah]] regarding repentance. Traveled to the top of the [[Katachthon Mountains]] and was struck by lightning twice. 
 10. A man and woman in red robes found him close to death. The woman tried to help him, but the man knocked him unconscious. He later woke up bandaged and found a small piece of a red robe that smelled like flowers. 
 11. Received a message from [[Keranos]] through [[Tedkah]].
+12. Asked [[Tedkah]] about the poem, he did not have much insight. 
+13. Said a prayer to [[Keranos]].
+14. Investigated the red cloth and found that it was manufactured in [[Akros]].
 
