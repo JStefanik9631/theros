@@ -183,8 +183,16 @@ A truth untamed, a fate revealed.
 2. Party debates poem.
 3. Alex PI
 4. Party has poker night with each other.
-5. At the end, a masked Keith shows up with a golden mask on that has a contingency level 7 fireball on it (12d6). His mask says, "you were warned".
+5. At the end, a masked Keith shows up with a golden mask on that has a contingency level 7 fireball on it (12d6). His mask says, "Little adventurers should not stick their nose where they don't belong.".
 
 
 Amy/Amelia? - oracle of phenax
 Pythis - scholar with henryk
+
+# 22January2025
+
+1. Party decides what to do
+2. Party does something IDK
+3. Party goes to see the play Wicked
+
+adonis detective add

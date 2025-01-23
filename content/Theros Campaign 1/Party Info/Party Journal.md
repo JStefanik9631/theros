@@ -3,6 +3,7 @@ draft: false
 tags:
   - Info
 ---
+
 ### Kapoli
 
 1. The party meets after taking a mission to deal with wolves that are attacking the small town of Kapoli.
@@ -76,3 +77,5 @@ tags:
 1. The party performed various tasks during their 6 weeks of free time.
 2. The party grouped up to visit [[Khea]], however she and [[Varyas' Mask]] were missing. The party did find a hidden box with the translation in side. 
 3. The party discussed [[Varyas' Poem]] and shared it with a few others. During Poker Night, a bound Pythis that [[Henrik]] met ran into the house. When his mask was removed, a fireball spell went off burning everyone and killing Pythis. The mask he was wearing had the following message on the back "Little adventurers should not stick their nose where it doesn't belong."
+4. The party spoke with [[Detective Adonis]] regarding the murder that took place in their basement. They confided in him that something was afoot involving the returned.
+5. After performing some random tasks, [[Percy]] saw a commotion near the temple of [[Heliod]]. After investigating with the rest of the party, it was revealed that the temple was attacked in a similar way as their basement. [[Corvel]] noticed that the bound body with a gold mask next to it, was of a young teenage girl. 
