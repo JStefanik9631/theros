@@ -196,3 +196,7 @@ Pythis - scholar with henryk
 3. Party goes to see the play Wicked
 
 adonis detective add
+
+# 29January2025
+
+1. Niko souls coin for bodies
