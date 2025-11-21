@@ -6,6 +6,7 @@ tags:
 ### [[Corvel]]
 
 [[Alchemy Blade]]
+[[Amulet of Proof against Detection and Location]]
 Black Velvet Mask
 [[Goggles of Night]]
 2 [[Healing Potion]]s
@@ -15,6 +16,7 @@ Rope
 Shield (+1)
 [[Trident of Fish Command]]
 [[Water of Lyth]]
+[[Wand of Fireballs]]
 
 ### [[Fenres|Fenres]]
 
@@ -43,7 +45,7 @@ Rope 2
 Bow (+1)
 [[Brooch of Shielding]]
 [[Eyes of the Eagle]]
-2 [[Healing Potion]]s
+[[Healing Potion]]
 [[Potion of Invisibility]]
 Rope
 [[Square Stone]]
@@ -61,7 +63,7 @@ Rope
 [[Water of Lyth]]
 
 ### [[Reginald]]
-
+[[Amulet of Proof against Detection and Location]]
 [[Bloodwell Vial]]
 [[Cloak of Smoke and Cinder]]
 Grappling Hook

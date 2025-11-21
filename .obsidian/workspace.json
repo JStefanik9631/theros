@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d84a8b0a130932ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72eb4c8ae00fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea66d6a79d3e3439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Theros Campaign 1/DM Notes/Session Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39cc23c315e44dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc335595da1d66b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ccd2df4f7eb837",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3c0f807b45490cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b684007a346da638",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1aaa89978bd5381",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d0ef722f6140f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bbdc393089c0e68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Theros Campaign 1/Artifacts/Bulwark of Brotherhood.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bulwark of Brotherhood"
+            }
+          },
+          {
+            "id": "e90b491d43af8c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Theros Campaign 1/Artifacts/Bulwark of Brotherhood.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bulwark of Brotherhood"
+            }
+          },
+          {
+            "id": "626b4fcf267ea7a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8b7f385e65a8e06e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Theros Campaign 1/Artifacts/Bulwark of Brotherhood.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bulwark of Brotherhood"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea66d6a79d3e3439",
+  "lastOpenFiles": [
+    "content/Theros Campaign 1/DM Notes/Current Fight.md",
+    "Untitled.canvas",
+    "content/Theros Campaign 1/Party Info/Item List.md",
+    "content/Theros Campaign 1/Items/Healing Potion.md",
+    "content/Theros Campaign 1/DM Notes/Session Plan.md",
+    "content/Theros Campaign 1/DM Notes/Divine Schemes.md",
+    "content/Theros Campaign 1/DM Notes/5 Players.md",
+    "content/Theros Campaign 1/Party Info/Party Gold.md",
+    "2025-11-07.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Pasted image 20251003161628.png",
+    "Pasted image 20251003161602.png",
+    "Pasted image 20251001002155.png",
+    "Pasted image 20250930222244.png",
+    "Pasted image 20250730183829.png",
+    "Pasted image 20250730183813.png",
+    "Pasted image 20250730183802.png",
+    "content/Not Done/Ashlands.md",
+    "content/Theros Campaign 1/Artifacts/Bulwark of Brotherhood.md",
+    "Wand of Fireballs.md",
+    "content/Theros Campaign 1/Party Info/Party Journal.md"
+  ]
+}
